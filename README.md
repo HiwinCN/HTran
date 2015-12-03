@@ -9,6 +9,8 @@
        三只小潴:root#zcnhonker.net
        
 
+ *       :Plesae open README.md to read complete HTran usage
+ *
  *       : [Usage of Packet Transmit:]
  *       :   HTran -<listen|tran|slave> <option> [-log logfile]
  *       :
