@@ -7,3 +7,14 @@
  Mail: lion:lion#cnhonker.com
        bkbll:bkbll#cnhonker.com
        三只小潴:root#zcnhonker.net
+       
+
+ *       : [Usage of Packet Transmit:]
+ *       :   HTran -<listen|tran|slave> <option> [-log logfile]
+ *       :
+ *       : [option:]
+ *       :   -listen <ConnectPort> <TransmitPort>
+ *       :   -tran   <ConnectPort> <TransmitHost> <TransmitPort>
+ *       :   -slave <ConnectHost> <ConnectPort> <TransmitHost> <TransmitPort>
+
+Welcome to http://www.cnhonker.com
